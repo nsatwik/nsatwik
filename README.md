@@ -1,16 +1,27 @@
-## Hi there 👋
+🌟 **Hello, World! I'm a Real-Time DevOps Engineer 🚀**  
+🎯 *Freelancer | Cloud Enthusiast | Automation Addict*
 
-<!--
-**nsatwik/nsatwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+👨‍💻 **What I Do**  
+🔧 Real-Time DevOps Engineer with a passion for:  
+- ☁️ **Multi-Cloud Mastery**: AWS | Azure | GCP  
+- 📦 **Containerization**: Kubernetes | Docker  
+- ⚙️ **CI/CD Pipelines**: Jenkins & beyond  
+- 🧩 Infrastructure as Code, Monitoring, and Automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💼 **Freelancer by Day, Problem Solver by Nature**  
+Whether it’s designing scalable cloud infrastructure, deploying robust pipelines, or optimizing DevOps workflows, I love bringing tech to life.
+
+---
+
+📡 **Let’s Connect!**  
+📸 [Instagram: @nsatwikjoel](https://www.instagram.com/nsatwikjoel/)  
+📘 [Facebook: Satwik Joel](https://www.facebook.com/satwik.joel.3/)  
+🔗 [LinkedIn: Satwik Joel](https://www.linkedin.com/profile/satwikjoel)
+
+---
+
+✨ _"Automate the boring stuff, architect the future."_ ✨
